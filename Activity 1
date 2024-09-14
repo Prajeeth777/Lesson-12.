@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Activity 1<title>
+<style>
+  .static{
+    border:2px solid blue;
+    position:static;
+}
+  .fixed{
+    border: 2px solid green;
+    position: fixed;
+    bottom: 0px;
+}
+  .relative{
+      border: 2px solid brown;
+      position:relative;
+      left:20px;
+      padding:40px;
+}
+  .absolute{
+      border: 2px solid red;
+      position: absolute;
+      left: 20px;
+}
+  .sticky{
+    background-color: gold;
+}
+</style>
+</head>
+<body>
+<div class="static">This is Static Postioning<div>
+<div class="fixed">This is Fixed Postioning<div>
+<div class="relative">This is Relative Postioning<div>
+<div class="absolute">This is Absolute Postioning<div>
+<div class="sticky">This is Sticky Postioning<div>
+<p>The Indian Premier League (IPL), also known as the TATA IPL for sponsorship reasons, is a men's Twenty20 (T20) cricket league held annually in India. Founded by the BCCI (the Board of Control for Cricket in India) in 2007, the league features ten state or city-based franchise teams. Most popular and biggest cricket league, it usually takes place during the summer for 2 months, between March and May each year. It has an exclusive window in the ICC Future Tours Programme, resulting in fewer international cricket tours occurring during the IPL seasons.
+
+In 2014, it ranked sixth in average attendance among all sports leagues. In 2010, the IPL became the first sporting event to be broadcast live on YouTube. Inspired by the success of the IPL, other Indian sports leagues have been established. In 2022, the league's brand value was estimated at ₹90,038 crore (US$11 billion). According to the BCCI, the 2015 IPL season contributed ₹1,150 crore (US$140 million) to India's GDP. In December 2022, the IPL achieved a valuation of US$10.9 billion, becoming a decacorn and registering a 75% growth in dollar terms since 2020 when it was valued at $6.2 billion, according to a report by the consulting firm D and P Advisory. Its 2023 final became the most streamed live event on the internet, with 32 million viewers.
+
+In 2023, the league sold its media rights for the next 4 seasons for US$6.4 billion to Viacom18 and Star Sports, meaning each IPL match was valued at $13.4 million. As of 2024, there have been seventeen seasons of the tournament. The current champions are the Kolkata Knight Riders, who won the 2024 season after defeating the Sunrisers Hyderabad in the final.The Indian Premier League (IPL), also known as the TATA IPL for sponsorship reasons, is a men's Twenty20 (T20) cricket league held annually in India. Founded by the BCCI (the Board of Control for Cricket in India) in 2007, the league features ten state or city-based franchise teams. Most popular and biggest cricket league, it usually takes place during the summer for 2 months, between March and May each year. It has an exclusive window in the ICC Future Tours Programme, resulting in fewer international cricket tours occurring during the IPL seasons.
+
+In 2014, it ranked sixth in average attendance among all sports leagues. In 2010, the IPL became the first sporting event to be broadcast live on YouTube. Inspired by the success of the IPL, other Indian sports leagues have been established. In 2022, the league's brand value was estimated at ₹90,038 crore (US$11 billion). According to the BCCI, the 2015 IPL season contributed ₹1,150 crore (US$140 million) to India's GDP. In December 2022, the IPL achieved a valuation of US$10.9 billion, becoming a decacorn and registering a 75% growth in dollar terms since 2020 when it was valued at $6.2 billion, according to a report by the consulting firm D and P Advisory. Its 2023 final became the most streamed live event on the internet, with 32 million viewers.
+
+In 2023, the league sold its media rights for the next 4 seasons for US$6.4 billion to Viacom18 and Star Sports, meaning each IPL match was valued at $13.4 million. As of 2024, there have been seventeen seasons of the tournament. The current champions are the Kolkata Knight Riders, who won the 2024 season after defeating the Sunrisers Hyderabad in the final.<p>
+</body>
+</html>

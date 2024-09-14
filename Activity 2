@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Activity 2<title>
+<style>
+ #div1{
+    height: 200px;
+    background-color: crimson;
+    opacity: 0.2;
+ }
+#div2{
+    height: 200px;
+    background-color: crimson;
+    opacity: 0.4;
+ }
+#div3{
+    height: 200px;
+    background-color: crimson;
+    opacity: 0.6;
+ }
+#div4{
+    height: 200px;
+    background-color: crimson;
+    opacity: 0.8;
+ }
+</style>
+</head>
+<body>
+  <div id="div1">
+  </div>
+ <div id="div2">
+  </div>
+ <div id="div3">
+  </div>
+<div id="div4">
+  </div>
+</body>
+</html>
